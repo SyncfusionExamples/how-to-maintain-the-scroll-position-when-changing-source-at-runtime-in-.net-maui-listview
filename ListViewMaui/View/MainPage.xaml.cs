@@ -1,10 +1,10 @@
-﻿namespace ListViewMaui;
-
-public partial class MainPage : ContentPage
+﻿namespace ListViewMaui
 {
-	public MainPage()
+	public partial class MainPage : ContentPage
 	{
-		InitializeComponent();
+		public MainPage()
+		{
+			InitializeComponent();
+		}
 	}
 }
-
